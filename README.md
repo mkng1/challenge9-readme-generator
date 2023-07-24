@@ -1,7 +1,8 @@
-
 # Challenge 9 - README.md Markdown template generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![Watch the video](/screenshot.png)](/recording.mov)
 
 ## Description
 
@@ -40,15 +41,3 @@ This project is licensed under the MIT license.
 ## Contributing
 
 Anyone may contribute to this repo. Please contact me through email directly.
-
-## Tests
-
-To run tests, run the following command:
-
-```
-npm test
-```
-
-## Questions
-
-If you have any questions about the repo, open an issue or contact me directly at 2017tempking@gmail.com. You can find more of my work at [mkng1](https://github.com/mkng1/).
