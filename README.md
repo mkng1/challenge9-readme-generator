@@ -1,8 +1,16 @@
 # Challenge 9 - README.md Markdown template generator
 
+The link to the repository is
+
+https://github.com/mkng1/challenge9-readme-generator(https://github.com/mkng1/challenge9-readme-generator)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [![Watch the video](/screenshot.png)](/recording.mov)
+
+Watch this video at 
+
+https://github.com/mkng1/challenge9-readme-generator/raw/main/recording.mov(https://github.com/mkng1/challenge9-readme-generator/raw/main/recording.mov)
 
 ## Description
 
