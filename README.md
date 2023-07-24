@@ -2,11 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<<<<<<< HEAD
-[![Watch the video](/screenshot.png)](/recording.mov)
-=======
 [![Watch the video](/screenshot.png)](https://youtu.be/vt5fpE0bzSY)
->>>>>>> 1133105 (cleaned up some files)
 
 ## Description
 
